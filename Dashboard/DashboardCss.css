@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container
+{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.container2
+{
+    display: flex;
+    justify-content: center;
+}
+
+.card
+{
+    background: #2c2b30;
+    width: 300px;
+    height: 250px;
+    margin: 20px;
+}
+
+h2{
+    color: white;
+}
+
+.card-image
+{
+    height: 200px;
+    margin-bottom: 15px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+
+.car-1{
+    background-image: url("DSA-1_card.jpeg");
+    
+    
+}
+
+.car-2{
+    background-image: url("DB_card.jpeg");
+    
+}
+
+.car-3{
+    background-image: url("oop_card.jpeg");
+}
+
+.car-4{
+    background-image: url("OS-1_card.jpeg");
+    background-size: cover;
+
+}
+
+.car-5{
+    background-image: url("CN-1_card.jpeg");
+}
+
+.car-6{
+    background-image: url("OS-2_card.jpeg");
+}
